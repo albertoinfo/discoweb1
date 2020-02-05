@@ -6,7 +6,7 @@ include_once 'app/controlerFile.php';
 include_once 'app/controlerUser.php';
 include_once 'app/modeloUser.php';
 
-// Inicializo el modelo
+// Inicializo el modelo (version 2)
 modeloUserInit();
 
 // Enrutamiento
